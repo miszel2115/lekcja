@@ -1,0 +1,16 @@
+#gora {
+    height: 50px;
+    background-color: red;
+}
+#glowny {
+    display: flex;
+    height: 400px;
+}
+#lewa {
+    width: 30%;
+    background-color: blue;
+}
+#prawa {
+    width: 70%;
+    background-color: green;
+}
